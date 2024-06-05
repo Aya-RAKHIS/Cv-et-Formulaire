@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cv-et-Formulaire/static/css/main.2788afec.css",
+    "main.js": "/Cv-et-Formulaire/static/js/main.98d91f9a.js",
+    "index.html": "/Cv-et-Formulaire/index.html",
+    "main.2788afec.css.map": "/Cv-et-Formulaire/static/css/main.2788afec.css.map",
+    "main.98d91f9a.js.map": "/Cv-et-Formulaire/static/js/main.98d91f9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2788afec.css",
+    "static/js/main.98d91f9a.js"
+  ]
+}
