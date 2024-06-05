@@ -1,0 +1,36 @@
+.interests {
+  display: flex;
+  gap: 18px;
+  flex-wrap: wrap;
+  min-height: 58px;
+}
+
+.interest {
+  width: 48px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.icon {
+  display: flex;
+  align-items: center;
+  background-color: var(--secondary-gray);
+  padding: 1.2rem;
+  border-radius: 50%;
+}
+
+.title {
+  font-size: 1.2rem;
+  color: var(--secondary-dark);
+}
+
+@media (max-width: 800px) {
+  .interests {
+    gap: 12px;
+  }
+
+  .interest {
+    width: 44px;
+  }
+}
